@@ -15,4 +15,4 @@ Petit titre
 
 # Liens
 [Movilab](http://movilab.org/)
-[Interne][page de test]
+[Interne]((interne))
