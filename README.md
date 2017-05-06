@@ -24,4 +24,4 @@ Petit titre
 | zebra stripes | are neat      |    $1 |
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)|(https://www.youtube.com/watch?v=iWpSrpiLqOk)
+[La vidéo](https://www.youtube.com/watch?v=iWpSrpiLqOk)
