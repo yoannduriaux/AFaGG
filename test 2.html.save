@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title>Essai css et html</title>
+		<meta charset="utf-8"
+	</head>
+
+<!-- Mise en page -->
+	
+	<style type="text/css">
+		body {
+			background-color: #2ecc71;
+			color: white;
+		}
+		h1 {
+			position: top;
+			top: 40%;
+			width: 100%;
+			text-align: center;
+			font-family: Helvetica;
+			font-size: 100;
+			text-align: top;
+		}
+		h2 {
+			position: top;
+			text-align: center;
+			font-family: Helvetica;
+			font-size: 20;
+			text-align: top;
+		}
+	</style>
+
+<!-- Textes -->
+
+	<h1>KoDeal</h1>
+	<h2>La poignée de main numérique</h2>
+
+</html>
+
+<!-- Import de Movilab -->
+
+<iframe width="100%" height="100%" position="absolute" src="http://movilab.org/" frameborder="0" ></iframe>
