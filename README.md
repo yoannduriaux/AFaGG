@@ -7,5 +7,8 @@ Il n'y a pas de notice, juste des tests perso
 
 Apprentissage du Markdown
 # 1 dièse
+Grand
 ## 2 dièses
+Moyen
 ### 3 dièses
+Petit
