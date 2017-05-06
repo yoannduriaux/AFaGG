@@ -7,8 +7,8 @@ Il n'y a pas de notice, juste des tests perso
 
 Apprentissage du Markdown
 # 1 dièse
-Grand
+Grand titre
 ## 2 dièses
-Moyen
+Moyen titre
 ### 3 dièses
-Petit
+Petit titre
